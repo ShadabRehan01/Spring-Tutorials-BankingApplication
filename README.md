@@ -13,8 +13,8 @@ A simple and clean **Spring Boot MVC-based Banking Application** that demonstrat
 
 ## 👨‍💻 Author
 
-**Shadab Rehan**  
-🔗 LinkedIn Profile - (https://www.linkedin.com/in/shadabrehan) <!-- Replace with your actual LinkedIn URL -->
+Author - **Shadab Rehan**  
+🔗 LinkedIn Profile - https://www.linkedin.com/in/shadabrehan <!-- Replace with your actual LinkedIn URL -->
 
 ---
 
