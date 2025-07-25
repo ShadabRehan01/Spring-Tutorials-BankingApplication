@@ -76,7 +76,6 @@ com.Banking_App.BankingApplication
 ## ⚠️ Exception Handling
 
 - `AccountNotFoundException`
-- `InvalidTransactionException`
 - Global handling with `@ControllerAdvice` and `ApiError`
 
 ---
